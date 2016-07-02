@@ -3,9 +3,14 @@ My notes on UI UX
 
 ## General
 
-### Posts
+### Guide
 
 - [Apple Design](https://developer.apple.com/design/)
+- [iOS Human Interface Guidelines] https://developer.apple.com/ios/human-interface-guidelines/
+- [Material design](https://material.google.com/#introduction-goals)
+
+### Posts
+
 - [Design Detail](http://www.brianlovin.com/)
 
 ## Tool
@@ -52,7 +57,7 @@ My notes on UI UX
 - http://webdesign.tutsplus.com/categories/sketch
 - http://www.learnsketch.com/tutorials.html
 - http://www.sketchtips.info/
-- https://www.sketchcasts.net/episodes
+- https://www.sketchcasts.net/episodes :star:
 
 ### Beginner
 
