@@ -6,7 +6,7 @@ My notes on UI UX
 ### Guide
 
 - [Apple Design](https://developer.apple.com/design/)
-- [iOS Human Interface Guidelines] https://developer.apple.com/ios/human-interface-guidelines/
+- [iOS Human Interface Guidelines](https://developer.apple.com/ios/human-interface-guidelines/)
 - [Material design](https://material.google.com/#introduction-goals)
 
 ### Posts
