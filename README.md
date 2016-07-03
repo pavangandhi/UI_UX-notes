@@ -69,6 +69,7 @@ My notes on UI UX
 - http://www.learnsketch.com/tutorials.html
 - http://www.sketchtips.info/
 - https://www.sketchcasts.net/episodes :star:
+- http://sketchapp.tv/ :star:
 
 ### Beginner
 
