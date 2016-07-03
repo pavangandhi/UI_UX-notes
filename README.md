@@ -11,7 +11,7 @@ My notes on UI UX
 
 ### Posts
 
-- [Design Detail](http://www.brianlovin.com/) :star: :star
+- [Design Detail](http://www.brianlovin.com/) :star::star:
 
 ### Podcast
 
