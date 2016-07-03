@@ -13,6 +13,11 @@ My notes on UI UX
 
 - [Design Detail](http://www.brianlovin.com/) :star:
 
+## Fonts
+
+- https://typekit.com/
+- https://fonts.google.com/
+
 ## Tool
 
 ### Prototyping
