@@ -21,6 +21,11 @@ My notes on UI UX
 
 - [Top Design Accounts to Follow on Medium!](https://medium.com/@leventask/top-design-accounts-to-follow-on-medium-88f519ebd0ca#.cqoenf4wa)
 
+### Showcase
+
+- https://dribbble.com/
+- https://www.behance.net/
+
 ## Resources
 
 ### Fonts
