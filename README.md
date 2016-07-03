@@ -13,7 +13,13 @@ My notes on UI UX
 
 - [Design Detail](http://www.brianlovin.com/) :star:
 
-## Fonts
+### Podcast
+
+- http://spec.fm/
+
+## Resources
+
+### Fonts
 
 - https://typekit.com/
 - https://fonts.google.com/
