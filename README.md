@@ -17,6 +17,10 @@ My notes on UI UX
 
 - http://spec.fm/
 
+### People
+
+- [Top Design Accounts to Follow on Medium!](https://medium.com/@leventask/top-design-accounts-to-follow-on-medium-88f519ebd0ca#.cqoenf4wa)
+
 ## Resources
 
 ### Fonts
