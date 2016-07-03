@@ -63,6 +63,7 @@ My notes on UI UX
 
 ### Tutorial
 
+- [Sketch App Tutorials by LevelUpTuts](https://www.youtube.com/watch?v=AV2OkzIGykA&list=PLLnpHn493BHE6UIsdKYlS5zu-ZYvx22CS)
 - https://medium.com/sketch-app-sources/
 - https://medium.com/sketch-tricks
 - http://webdesign.tutsplus.com/categories/sketch
