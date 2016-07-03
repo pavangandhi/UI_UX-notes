@@ -11,7 +11,7 @@ My notes on UI UX
 
 ### Posts
 
-- [Design Detail](http://www.brianlovin.com/) :star:
+- [Design Detail](http://www.brianlovin.com/) :star: :star
 
 ### Podcast
 
@@ -25,6 +25,8 @@ My notes on UI UX
 
 - https://dribbble.com/
 - https://www.behance.net/
+- http://www.ios.uplabs.com/ :star:
+
 
 ## Resources
 
