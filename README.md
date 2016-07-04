@@ -94,3 +94,9 @@ My notes on UI UX
 - https://www.raywenderlich.com/117609/sketch-indie-developers ⭐️
 - https://medium.com/sketch-app-sources/sketch-app-tutorial-series-part-1-of-4-1e4ee4265073#.8lcwebzhu
 - https://medium.com/google-design/sketch-tutorial_01-b76271a095e3#.5my20r5rc
+
+## SVG
+
+### Posts
+
+- https://codepen.io/chrisgannon/post/how-to-make-an-svg-lava-lamp
